@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name" translatable="false">Tim Berners-Lee</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">
+		Sir Timothy John \"Tim\" Berners-Lee,was born 8 June 1955, also known as \"TimBL,\" is a British computer scientist, best known as the inventor of the World Wide Web. He made a proposal for an information management system in March 1989, and he implemented the first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the Internet sometime around mid November
+		Berners-Lee is the director of the World Wide Web Consortium (W3C), which oversees the Web\'s continued development. He is also the founder of the World Wide Web Foundation, and is a senior researcher and holder of the Founders Chair at the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). He is a director of the Web Science Research Initiative (WSRI), and a member of the advisory board of the MIT Center for Collective Intelligence.
+		In 2004, Berners-Lee was knighted by Queen Elizabeth II for his pioneering work. In April 2009, he was elected a foreign associate of the United States National Academy of Sciences. He was honoured as the \"Inventor of the World Wide Web\" during the 2012 Summer Olympics opening ceremony, in which he appeared in person, working with a vintage NeXT Computer at the London Olympic Stadium. He tweeted \"This is for everyone\", which was instantly spelled out in LCD lights attached to the chairs of the 80,000 people in the audience.
+	</string>
+</resources>

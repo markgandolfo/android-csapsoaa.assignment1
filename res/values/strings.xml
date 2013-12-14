@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matsumoto and Berners-Lee</string>
+    <string name="name" translatable="false">Yukihiro Matsumoto</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">
+        Yukihiro Matsumoto a.k.a. Matz, born 14 April 1965) is a Japanese computer scientist and software programmer best known as the chief designer of the Ruby programming language and its reference implementation, Matz\'s Ruby Interpreter (MRI).
+        As of 2011, Matsumoto is the Chief Architect of Ruby at Heroku, an online cloud platform-as-a-service in San Francisco. He is a fellow of Rakuten Institute of Technology, a research and development organization in Rakuten Inc.
+	</string>
+</resources>
